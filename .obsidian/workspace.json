@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "3bbafcddc5676ca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "55302a9c1a16bb0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "527725e6803ec2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/3-Resource/王者荣耀/圣堂门派技能解析.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3dd4e8fbf886eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "987dbc5670d8f4fa",
+        "type": "tabs",
+        "dimension": 63.92785571142284,
+        "children": [
+          {
+            "id": "a4d1994dfc9f1870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce044dedd57e8849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "4ea8d6f6779182a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64b479921a69c6e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "92910ae8836a7b22",
+        "type": "tabs",
+        "dimension": 36.07214428857716,
+        "children": [
+          {
+            "id": "8dd91c1b9fe545b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spaces/3-Resource/王者荣耀/圣堂门派技能解析.md"
+              }
+            }
+          },
+          {
+            "id": "34fc1f18d8eef916",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spaces/3-Resource/王者荣耀/圣堂门派技能解析.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "401ecf6c95e31916",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spaces/3-Resource/王者荣耀/圣堂门派技能解析.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "687dfb8cd0c53082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spaces/3-Resource/王者荣耀/圣堂门派技能解析.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "c718ea3b78af998f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac5865f1b9a84921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bccbc58c75411b52",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3506d2b207c61150",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "notion-like-tables:Create Notion-Like table": false
+    }
+  },
+  "active": "527725e6803ec2fb",
+  "lastOpenFiles": [
+    "Spaces/3-Resource/王者荣耀/誓羽门派技能解析.md",
+    "Spaces/3-Resource/王者荣耀/誓羽飞天不能躲的pvp各门派技能.md",
+    "Spaces/3-Resource/王者荣耀/圣堂门派技能解析.md",
+    "Spaces/3-Resource/王者荣耀/轻度服攻略.md",
+    "Spaces/3-Resource/王者荣耀/流光门派技能解析.md",
+    "Spaces/3-Resource/王者荣耀/云巅大会.md",
+    "Context",
+    "Spaces/3-Resource/王者荣耀/流光.md",
+    "Spaces/3-Resource/王者荣耀/天谕手游.md",
+    "Cards/永久笔记/启动v2ray的服务端的docker镜像.md",
+    "Cards/永久笔记/自己部署一个v2ray服务.md",
+    "Cards/永久笔记/安装docker服务.md",
+    "Cards/永久笔记/OpenAI - chatGPT -超强AI聊天机器人注册使用.md",
+    "Calendar/Daily notes/2023-05-16.md",
+    "Cards/永久笔记/chatGPT.md",
+    "Cards/永久笔记/启动v2ray的客户端，连接并测试连通性.md",
+    "Cards/永久笔记/cloudflare warp.md",
+    "Cards/永久笔记/Access Denied - 1020.md",
+    "Spaces/3-Resource/王者荣耀/光刃.md",
+    "Calendar/Daily notes/2023-05-13.md",
+    "Extras/Media/华为Go语言安全编程规范V2_0.pdf",
+    "Calendar/Daily notes/2023-05-10.md",
+    "Calendar/Daily notes/2023-05-07.md",
+    "Calendar/Daily notes/国人如何使用chatGPT.md",
+    "Spaces/1-Project/OpenAI 官方文档阅读笔记/∑ OpenAI 官方文档阅读笔记.md",
+    "OCR-Screenshots.md",
+    "Calendar/Daily notes/2023-05-06.md",
+    "Cards/永久笔记/🔡SMART.md",
+    "Extras/Templates/textgenerator模板/prompts/trash/dalle-2",
+    "Extras/Templates/textgenerator模板/prompts/trash/default",
+    "Extras/Templates/textgenerator模板/prompts/trash/huggingface",
+    "Extras/Templates/textgenerator模板/prompts/trash",
+    "Extras/Templates/textgenerator模板/prompts/awesomechatgpt",
+    "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
+    "Extras/Media/ChatGPT高质量prompt技巧分享.pdf",
+    "Untitled.table",
+    "Atlas/Canvas/🧩 DevOps成长路线图.canvas",
+    "Extras/Media/【极客时间】李佳芮：ChatGPT 从0到1.pdf",
+    "Extras/Media/Pasted image 20230305120820.png",
+    "Extras/Media/Pasted image 20230305122456.png",
+    "Extras/Media/Pasted image 20230312131834.png",
+    "Extras/Media/Pasted image 20230317221306.png",
+    "Extras/Media/Pasted image 20230329192147.png",
+    "Extras/Media/Screenshot_2022-11-20-18-40-36-52_d138286dbdf585e65d8870f8ad4cb89b.jpg",
+    "Extras/Media/16799226083092.png",
+    "Extras/Media/1679922749389.jpg",
+    "Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
+    "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
+    "Atlas/Canvas/🧩 如何构建第二大脑.canvas",
+    "Atlas/Canvas/PPV人生管理系统.canvas",
+    "Atlas/Canvas/🧩 如何做读书笔记.canvas",
+    "Atlas/Canvas/🧩 白板canvas-示意图.canvas",
+    "Spaces/2-Area/个人职业生涯/远程面试 共享桌面 演示流程.canvas",
+    "Atlas/Canvas/canvas尝试当做ppt的可行性.canvas",
+    "Atlas/Draws/白板 2023-03-11.dark.svg",
+    "Atlas/Draws/白板 2023-03-11.light.svg"
+  ]
+}

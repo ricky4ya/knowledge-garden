@@ -1,0 +1,15 @@
+{
+  "inlineCSS": true,
+  "inlineJS": true,
+  "inlineImages": true,
+  "makeNamesWebStyle": true,
+  "includePluginCSS": "obsidian-linter\nvarious-complements\nobsidian-spaced-repetition\nomnisearch\nobsidian-auto-link-title\nobsidian-better-command-palette\nobsidian-another-quick-switcher\nobsidian-excalidraw-plugin\nobsidian-style-settings\ncmdr\ndataview\nnote-refactor-obsidian\nsupercharged-links-obsidian\ntag-wrangler\nobsidian-advanced-uri\nsmart-connections\nobsidian-mindmap-nextgen",
+  "addDarkModeToggle": true,
+  "includeOutline": true,
+  "customLineWidth": 0,
+  "openAfterExport": true,
+  "lastExportPath": "/Users/dong/Downloads/🧩-2022年，我用3个app达成的3个小成就.html",
+  "uzeZip": false,
+  "customJS": "",
+  "customCSS": ""
+}

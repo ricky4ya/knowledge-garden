@@ -1,0 +1,123 @@
+{
+  "strategy": "chinese",
+  "cedictPath": "./Extras/Others/cedict_ts.u8",
+  "matchStrategy": "partial",
+  "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": true,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^。，",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": false,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": false,
+  "descriptionOnSuggestion": "Full",
+  "selectSuggestionKeys": "Ctrl/Cmd+Enter",
+  "additionalCycleThroughSuggestionsKeys": "Tab, Shift+Tab",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": true,
+  "openSourceFileKey": "Alt+Enter",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 3,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 4,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "Extras/Templates/其他/dict/dict.md\nExtras/Templates/其他/dict/chatgpt_prompts_dict.md",
+  "columnDelimiter": "Pipe",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "+=",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "=>",
+  "caretLocationSymbolAfterComplement": "$END$",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": false,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": true,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "人生": {
+      "人生": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678517064981
+        }
+      }
+    },
+    "非常嫌疑犯": {
+      "非常嫌疑犯": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678517076159
+        }
+      }
+    },
+    "VMess": {
+      "VMess": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678615177107
+        }
+      }
+    },
+    "GTD": {
+      "GTD": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679220970769
+        }
+      }
+    },
+    "中图法": {
+      "中图法": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679221776081
+        }
+      }
+    },
+    "co-tip": {
+      "co-tip": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1679320141477
+        }
+      }
+    },
+    "ai-translate": {
+      "ai-translate": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1680869772012
+        }
+      }
+    }
+  }
+}
